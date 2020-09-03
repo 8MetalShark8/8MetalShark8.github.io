@@ -1,9 +1,11 @@
 'use strict'
 
-import App from './components/App';
+//import App from './components/App';
 
-//import {sayingHi} from './module/app.js';
+import {sayingHi} from './module/app.js';
 
-App.hi();
+// App.hi();
+
+sayingHi.Say();
 
 console.log('hi git');
