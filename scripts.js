@@ -4,6 +4,6 @@ import App from './components/App';
 
 //import {sayingHi} from './module/app.js';
 
-sayingHi.Say();
+App.hi();
 
 console.log('hi git');
