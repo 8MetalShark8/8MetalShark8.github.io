@@ -1,7 +1,7 @@
 'use strict'
 
-import SayHi from './module/app.js';
+import {sayingHi} from './module/app.js';
 
-SayHi.Say();
+sayingHi.Say();
 
 console.log('hi git');
