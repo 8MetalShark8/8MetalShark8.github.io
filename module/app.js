@@ -4,4 +4,4 @@ class SayHi{
   }
 }
 
-export default new SayHi();
+export const sayingHi = new SayHi();
