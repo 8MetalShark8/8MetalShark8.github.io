@@ -1,6 +1,8 @@
 'use strict'
 
-import {sayingHi} from './module/app.js';
+import App from './components/App';
+
+//import {sayingHi} from './module/app.js';
 
 sayingHi.Say();
 
